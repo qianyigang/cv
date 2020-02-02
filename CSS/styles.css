@@ -1,0 +1,122 @@
+body{
+    background-color:whitesmoke;
+    color: #40514E;
+    text-align:center;
+    font-family:"Merriweather",serif;
+}
+
+
+p{
+    line-height: 2;
+}
+
+
+hr{
+    border: dotted #c1d1d1 6px;
+    border-bottom:none;
+    width:4%;
+    margin:100px auto;
+}
+
+
+
+.top_container{
+    opacity: 1;
+    padding: 200px;
+    margin-top:2%;
+    background-color:#e1f4f3;
+    }
+    
+h1{
+    font-size: 314%; /* 16px=100%=1em, i want 50px so 50 times 100 divided by 16 equals to 312%   */
+    font-family:"sacramento",cursive;
+    line-height: 2;
+}
+
+
+.intro{
+    width: 30%;
+    margin:auto;
+}
+
+h2{
+    padding: 10px;
+    color: #66bfbf;
+    font-weight: normal;
+}
+
+
+h3{
+color:#66bfbf ;
+}
+
+
+.top_cloud{
+    position:absolute;
+    left:600px;
+    top:200px;
+}
+
+.bottom_cloud{
+    position: absolute;
+    left:300px;
+    top:900;
+}
+
+
+.skill-row{
+    text-align: left;
+    margin: 15% 200px 15% 200px;
+}
+
+.middle-container{
+    margin: 100px 0px 100px 0px;
+}
+
+.data-img{
+    width:20%;
+    float: right;
+    margin-left: 20px;
+}
+
+.tennis-img{
+    width:20%;
+    float: left;
+    margin-right: 20px;
+}
+
+.camera-img{
+    width:20%;
+    float: right;
+    margin-left: 20px;
+}
+
+
+
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px auto;
+}
+
+.bottom-container{
+    background-color:#aaeeeecb;
+    padding: 50px 0px 20px;
+}
+
+a{
+    color:#11999E;
+    text-decoration: none;
+    margin:10px;
+}
+
+a:hover{
+    color:rgb(186, 248, 250);
+    text-decoration: none;
+}
+
+.copyright{
+    color: #333838;
+    font-size:0.75rem;
+    padding:20px 0;
+}
